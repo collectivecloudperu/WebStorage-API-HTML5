@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+#container{
+	width:32%;
+	margin:auto;
+	padding-top:50px;
+}
+
+h2{
+	text-align: center;
+}
+
+
+#panelform{
+	float:left;
+	padding:20px;
+	border:3px solid #039;
+	margin-left:150px;
+}
+
+#showdata{
+	float:right;
+	width:300px;
+	margin-left:20px;
+	padding:20px;
+	border:3px solid #F00;
+}
+
+#email, #datos{
+	width:180px;
+}
+
+#showdata div{
+	padding:15px;
+	border-bottom:3px solid #00F;
+}
